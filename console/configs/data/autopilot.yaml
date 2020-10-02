@@ -2,4 +2,6 @@ production:
   events:
     - click
     - touch
+    - hover
+
 
